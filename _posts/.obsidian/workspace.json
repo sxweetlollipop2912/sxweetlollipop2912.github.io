@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "fc6ad57d65c2c766",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c3ecfbcad629037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee55a368832b2acf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "debeee29f738ddda",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce34a1968c02ea51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d7d2b78bc393251",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d07663152e77226",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe410fcd495d0b41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bee7fdecc7ca628d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd041f034008699c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bc192896fc55796",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d48fca4fabde364c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dbe46285b969a227",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cef7b38d51c3865e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Number Theory/Chapter 1 exercises.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 1 exercises"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ee55a368832b2acf",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled",
+    "School/Number Theory/Chapter 1 exercise.md",
+    "School/Number Theory/Chapter 1 exercises.md",
+    "School/Number Theory/Chapter 1.md",
+    "School/Number Theory/Chapter 2 - Congruences.md",
+    "SWE/assets/Screenshot 2024-10-16 at 15.57.02.png",
+    "SWE/assets",
+    "SWE/Kafka.md",
+    "SWE/assets/Screenshot 2024-10-16 at 16.48.02.png",
+    "SWE/assets/Screenshot 2024-10-16 at 16.47.43.png",
+    "SWE/assets/Screenshot 2024-10-16 at 16.46.52.png",
+    "SWE/assets/Screenshot 2024-10-16 at 16.41.42.png",
+    "SWE/assets/Screenshot 2024-10-16 at 16.40.58.png",
+    "SWE/assets/Screenshot 2024-10-16 at 16.00.29.png",
+    "SWE/assets/Screenshot 2024-10-16 at 15.58.48.png",
+    "SWE.md",
+    "SWE",
+    "Script.md",
+    "Scholarships.md",
+    "School/Security/E2EE/assets/Screenshot%202024-09-13%20at%2023.47.35.png",
+    "School/Group Theory/W1.md",
+    "Journals/Daily/2024-10-10.md",
+    "School/Untitled.md",
+    "School/Group Theory",
+    "School/Y4T1",
+    "School/Security/E2EE/CS434 - Signal Protocol Implementation.md",
+    "School/Security/E2EE/assets/x3dh.png",
+    "School/Security/E2EE/assets",
+    "School/NLP/NLP draft.md",
+    "School/NLP/Final Notes.md",
+    "School/Security/E2EE/Signal.md",
+    "School/Security/FInal/APCS 2021.md",
+    "School/Security/E2EE",
+    "Excalidraw/Drawing 2024-08-25 20.10.10.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-25 19.47.32.excalidraw.md",
+    "Excalidraw/APCS 2021 2024-08-25 13.41.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-25 19.35.10.excalidraw.md",
+    "SkyMavis/Telemetry.md",
+    "Excalidraw",
+    "School/Security/FInal",
+    "School/Security/Cryptography book/Chapter 1.md",
+    "School/Security/Cryptography book/Chapter 2.md",
+    "Writings/On meaningfulness in software engineering.md",
+    "Writings/On boredom, tranquility, and dopamine.md",
+    "SkyMavis"
+  ]
+}
