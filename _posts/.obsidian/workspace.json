@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee55a368832b2acf",
+            "id": "44d4808255d28527",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2024-10-24-demo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-10-24-demo"
             }
           }
         ]
@@ -160,11 +164,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee55a368832b2acf",
+  "active": "44d4808255d28527",
   "lastOpenFiles": [
     "Untitled.md",
+    "templates/post_template.md.md",
+    "templates/2024-10-24-demo.md.md",
     "2024-10-24-demo.md",
-    "Untitled",
+    "Makefile",
+    "templates/scripts/create_post.md",
+    "templates/scripts/create_post.js",
+    "templates/scripts",
+    "templates",
     "School/Number Theory/Chapter 1 exercise.md",
     "School/Number Theory/Chapter 1 exercises.md",
     "School/Number Theory/Chapter 1.md",
@@ -200,13 +210,6 @@
     "Excalidraw/Drawing 2024-08-25 20.10.10.excalidraw.md",
     "Excalidraw/Drawing 2024-08-25 19.47.32.excalidraw.md",
     "Excalidraw/APCS 2021 2024-08-25 13.41.23.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-25 19.35.10.excalidraw.md",
-    "SkyMavis/Telemetry.md",
-    "Excalidraw",
-    "School/Security/FInal",
-    "School/Security/Cryptography book/Chapter 1.md",
-    "School/Security/Cryptography book/Chapter 2.md",
-    "Writings/On meaningfulness in software engineering.md",
-    "SkyMavis"
+    "Excalidraw/Drawing 2024-08-25 19.35.10.excalidraw.md"
   ]
 }
